@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 
-df=pd.read_csv("C:/Users/adith/Documents/ds/t20_leagues/ball_ball_data/set_1_player_info_t20_combined_batting_bowling_style.csv")
+# df=pd.read_csv("C:/Users/adith/Documents/ds/t20_leagues/ball_ball_data/set_1_player_info_t20_combined_batting_bowling_style.csv")
 class Bowler():
 
             def __init__(self,deliveries_df):
